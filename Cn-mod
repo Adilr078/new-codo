@@ -1,0 +1,29 @@
+# Arithmetic operations in Python
+
+# Addition
+
+print(3 + 4)
+
+# Subtraction
+
+print(10 - 5)
+
+# Multiplication
+
+print(2 * 6)
+
+# Division
+
+print(12 / 4)
+
+# Exponentiation (raise to a power)
+
+print(3 ** 2)
+
+# Floor Division (divide and round down to nearest integer)
+
+print(13 // 4)
+
+# Modulus (find the remainder of a division operation)
+
+print(11 % 3)
